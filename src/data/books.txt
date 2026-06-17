@@ -1,0 +1,20 @@
+101,Java Programming,James Gosling,5
+102,Python Basics,Guido van Rossum,4
+103,Data Structures and Algorithms in Java,Narasimha Karumanchi,3
+104,C Programming Language,Dennis Ritchie,6
+105,Operating System Concepts,Abraham Silberschatz,4
+106,Computer Networks,Andrew S. Tanenbaum,5
+107,Database System Concepts,Henry F. Korth,3
+108,Software Engineering,Ian Sommerville,4
+109,Artificial Intelligence: A Modern Approach,Stuart Russell,2
+110,Discrete Mathematics and Its Applications,Kenneth Rosen,5
+111,Digital Logic and Computer Design,Morris Mano,3
+112,Fundamentals of Computer Algorithms,Horowitz & Sahni,4
+113,Web Technologies: HTML, CSS & JavaScript,Jon Duckett,5
+114,Introduction to Machine Learning,Ethem Alpaydin,3
+115,Cloud Computing Concepts,Rajkumar Buyya,4
+116,Computer Organization and Architecture,William Stallings,3
+117,Effective Java,Joshua Bloch,4
+118,Python for Data Analysis,Wes McKinney,3
+119,Compilers: Principles, Techniques & Tools (Dragon Book),Aho, Lam, Sethi,2
+120,Modern Operating Systems,Andrew S. Tanenbaum,4
